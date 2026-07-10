@@ -5,7 +5,7 @@ This project is a simple login form created with HTML and JavaScript for a cyber
 
 ## Files
 
-- index.html
+- file.html
 - script.js
 
 ## How to Run
